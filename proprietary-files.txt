@@ -870,10 +870,7 @@ vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
 
 # Thermal (Configs)
-vendor/etc/thermal-engine-battery.conf
-vendor/etc/thermal-engine-battery2.conf
-vendor/etc/thermal-engine-gameing.conf
-vendor/etc/thermal-engine-performance.conf
 vendor/etc/thermal-engine-map.conf
-vendor/etc/thermal-engine-default.conf
+vendor/etc/thermal-engine-normal.conf
+vendor/etc/thermal-engine-video.conf
 vendor/etc/thermal-engine.conf
