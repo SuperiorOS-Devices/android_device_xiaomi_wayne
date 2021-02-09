@@ -54,3 +54,8 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := superior_wayne
 PRODUCT_DEVICE := wayne
 PRODUCT_MODEL := MI 6X
+
+# Maintainer prop
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.superior.maintainer=MadDogRRS2
+SUPERIOR_OFFICIAL := true
